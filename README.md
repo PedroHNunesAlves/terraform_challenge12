@@ -2,7 +2,7 @@ Run this command
 ~~~
 terraform init
 ~~~
-
+- Ensure to have terraform installed in your machine before running it
 
 # Goals
 1. Update your modules to accept generic variables.								
