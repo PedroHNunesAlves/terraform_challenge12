@@ -7,7 +7,7 @@ resource "aws_security_group" "ec2-sg" {
     from_port = 22
     to_port = 22
     protocol = "tcp"
-    cidr_blocks = ["181.189.91.76/32"]
+    cidr_blocks = ["xxxxIPxxxx"]
   }
 
   ingress {
